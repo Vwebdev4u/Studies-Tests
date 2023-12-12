@@ -7,7 +7,7 @@
 📧 How to reach me: vfroner.contact@gmail.com <br>
 
 <div style="display: inline_block"><br>
-<!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+<!--   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 <!--   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,16 +23,18 @@
 <div>
   <a href:"https://beacons.ai/VniciusPF">
   <img height="180em" src= "https://git
-    
+
+##
 </div>
+ 
 <div>
-  <a href="">
-  <img = "180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusPFrDev&show_icons-true&theme=dracula&include_all_commits-true&count_private-true"/>
-  <img = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPFrDev
+    <a href="https://github.com/Vwebdev4u">
+      <img = "180em" src="https://github-readme-stats.vercel.app/api?username=Vwebdev4u&show_icons=true&&hide=prs&theme=solarized-dark&include_all_commits-true&count_private-true&=dark"/>  
+      <img = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vwebdev4u&layout=compact&langs_count&theme=solarized-dark">     
+</div>
+  
 
-  </div>
-
-
+   
 
 
 
