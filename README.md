@@ -1,11 +1,12 @@
 ### Hi there! 👋
 
-<h1> My name is Vinicius P. Froner. 🙋‍♂️</h1> <br>
-🖋️ I am a Front-end Developer. <br>
+ # My name is Vinicius P. Froner. 🙋‍♂️ 
+
+🖋️ I am a **Front-end Developer.** <br>
 👨‍🎓 I have qualification in Html, Css and Java Script.<br>
 🧑‍🚀 Open for opportunities. <br>
-📧 How to reach me: vfroner.contact@gmail.com <br>
-
+📧 How to reach me: __vfroner.contact@gmail.com__ <br>
+ ***
 <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 <!--   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
